@@ -98,11 +98,16 @@ header>.banner {
     padding-bottom: 30px;
     width: 585px;
 }
+main{
+    width: 1140px;
+    margin: 0 auto;
+}
 
 .about {
     padding: 130px;
     background-color: #FFF8F3;
     margin: 130px 0;
+    border-radius: 10px;
 }
 
 .about-description {
@@ -110,4 +115,5 @@ header>.banner {
     text-align: center;
     font-size: 18px;
     font-style: normal;
+    padding: 30px 0;
 }
