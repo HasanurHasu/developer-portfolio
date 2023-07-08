@@ -4,6 +4,12 @@
     padding: 0px;
 }
 
+.section-tittle {
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+}
+
 .logo {
     color: #181818;
     font-size: 45px;
@@ -91,4 +97,17 @@ header>.banner {
     font-size: 18px;
     padding-bottom: 30px;
     width: 585px;
+}
+
+.about {
+    padding: 130px;
+    background-color: #FFF8F3;
+    margin: 130px 0;
+}
+
+.about-description {
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
 }
