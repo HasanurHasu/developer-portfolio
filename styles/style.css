@@ -9,7 +9,8 @@
     text-align: center;
     font-size: 35px;
 }
-section{
+
+section {
     margin-top: 130px;
 }
 
@@ -202,13 +203,59 @@ main {
     font-weight: 400;
     line-height: 28px;
 }
-.resume-container hr{
+
+.resume-container hr {
     margin: 20px 0;
 }
-footer{
+
+.download{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+footer {
+    display: flex;
     background-color: #FFF8F3;
-    padding: 130px 230px;
-    margin-top: 115px
+    gap: 100px;
+    padding: 130px 250px;
+    margin-top: 100px
+}
+
+.footer-tittle {
+    color: #181818;
+    text-align: left;
+    font-size: 35px;
+}
+
+.footer-description {
+    color: #474747;
+    font-size: 16px;
+    line-height: 28px;
+    padding: 20px 0px;
+}
+
+.social-icon {
+    padding-right: 25px;
+}
+.footer-colum{
+    width: 50%;
+
+}
+
+.contact .input-message,
+textarea {
+    display: block;
+}
+
+.input-message, textarea {
+    border-radius: 5px;
+    border: none;
+    padding: 18px 30px;
+    margin: 25px 0px;
+    color: #757575;
+    font-size: 16px;
+    width: 100%;
+
 }
