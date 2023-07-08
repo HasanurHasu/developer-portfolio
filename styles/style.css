@@ -205,3 +205,10 @@ main {
 .resume-container hr{
     margin: 20px 0;
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFF8F3;
+    padding: 130px 230px;
+    margin-top: 115px
+}
